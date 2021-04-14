@@ -3,8 +3,6 @@ Exercise for MSCH-C220, 12 April 2021
 
 A simple example of Unit Testing, using GUT. Implements (and auto-runs) the test_example.gd suite. 2 tests should pass, and 3 should fail.
 
-Any script (that follows the applicable conventions) in the res://test/unit or res://test/integration will be run when the project is played.
-
 ## Implementation
 Built using Godot 3.2.3
 
@@ -17,4 +15,4 @@ Built using Godot 3.2.3
 Add more tests
 
 ## Created by 
-Jason Francis
+Gwen Hall
